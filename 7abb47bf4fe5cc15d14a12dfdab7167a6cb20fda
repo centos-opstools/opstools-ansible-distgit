@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba7be1f8_b2f8ddc5",
+        "filename": "opstools-ansible.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 80
+      },
+      "writtenOn": "2017-12-04T09:37:07Z",
+      "side": 1,
+      "message": "that would be Requires: python-setuptools",
+      "revId": "7abb47bf4fe5cc15d14a12dfdab7167a6cb20fda",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
