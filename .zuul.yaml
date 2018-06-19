@@ -1,0 +1,7 @@
+- project:
+    name: centos-opstools/opstools-ansible-distgit
+    check:
+      jobs:
+        - legacy-centos-opstools-rpmlint
+        - legacy-centos-opstools-rpmbuild
+        - opstools-common-distgit-cbs-validate
